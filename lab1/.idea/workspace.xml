@@ -7,14 +7,18 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1iMADkmeQGyhkbjgD6pDV20Yrq4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../OOP-rereversi-game" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunManager">
@@ -47,6 +51,10 @@
       <screen x="55" y="27" width="1865" height="1053" />
     </state>
     <state x="437" y="204" key="#com.intellij.execution.impl.EditConfigurationsDialog/55.27.1865.1053@55.27.1865.1053" timestamp="1601707096732" />
+    <state x="717" y="254" width="530" height="605" key="FileChooserDialogImpl" timestamp="1601792835794">
+      <screen x="55" y="27" width="1865" height="1053" />
+    </state>
+    <state x="717" y="254" width="530" height="605" key="FileChooserDialogImpl/55.27.1865.1053@55.27.1865.1053" timestamp="1601792835794" />
     <state width="1805" height="260" key="GridCell.Tab.0.bottom" timestamp="1601709834898">
       <screen x="55" y="27" width="1865" height="1053" />
     </state>

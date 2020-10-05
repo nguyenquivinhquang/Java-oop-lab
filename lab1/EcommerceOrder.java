@@ -16,13 +16,17 @@ public class EcommerceOrder {
 
         for (int i = 0; i < n; i++) {
             Items item = new Items();
+            System.out.print("Item id: ");
             item.setId(myObj.nextInt());
+            System.out.print("Item name: ");
             String name = myObj.next();
             item.setName(name);
+            System.out.print("Item price ");
             item.setPrice(myObj.nextDouble());
             order.setItems(item);
         }
         System.out.println(order.calculateAverageCost());
+        myObj.close();
     }
 }
 
