@@ -21,7 +21,6 @@ class Triangle {
 
     public String verify() {
 
-        // check Not Triangle
         if (l1 + l2 <= l3 || l2 + l3 <= l1 || l3 + l1 <= l2)
             return "Not Triangle \n";
         if (l1 == l2 && l2 == l3)
@@ -36,6 +35,6 @@ class Triangle {
 public class TriangleVerification {
     public static void main(String[] args) {
         Triangle triangle = new Triangle(12, 11, 5);
-        System.out.println(triangle.verify());
+        System.out.print(triangle.verify());
     }
 }

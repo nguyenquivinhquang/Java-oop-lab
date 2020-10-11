@@ -18,11 +18,13 @@ public class EcommerceOrder {
             Items item = new Items();
             System.out.print("Item id: ");
             item.setId(myObj.nextInt());
+
             System.out.print("Item name: ");
-            String name = myObj.next();
-            item.setName(name);
+            item.setName(myObj.next());
+
             System.out.print("Item price ");
             item.setPrice(myObj.nextDouble());
+
             order.setItems(item);
         }
         System.out.println(order.calculateAverageCost());
