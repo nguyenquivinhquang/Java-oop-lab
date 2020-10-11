@@ -7,10 +7,17 @@ public class Box {
     private char[][] a = new char[30][30];
     Vector<Particle> particles = new Vector<>();
 
-    public static Box getInstance() {
-        return new Box(5, 5);
-    }
 
+    private static final Box INSTANCE = new Box(5,5);
+ 
+    // Private constructor to avoid client applications to use constructor
+    private Box() {
+         
+    }
+ 
+    public static Box getInstance() {
+        return INSTANCE;
+    }
     public static int getHeight() {
         return height;
     }
