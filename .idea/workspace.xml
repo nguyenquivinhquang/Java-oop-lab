@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="76e80791-f8d6-4510-9375-62e70367a210" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/ITITIU19252.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab03/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/lab03/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab03/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lab03/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab03/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lab03/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab03/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/lab03/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab03/lab03.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lab03/lab03.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab03/out/production/lab03/Prob01/MainShape.class" beforeDir="false" afterPath="$PROJECT_DIR$/lab03/out/production/lab03/Prob01/MainShape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab03/out/production/lab03/Prob01/MyLine.class" beforeDir="false" afterPath="$PROJECT_DIR$/lab03/out/production/lab03/Prob01/MyLine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab03/src/Prob01/MainShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab03/src/Prob01/MainShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab03/src/Prob01/MyBoundedShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab03/src/Prob01/MyBoundedShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab03/src/Prob01/MyLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab03/src/Prob01/MyLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab03/src/Prob01/MyOval.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab03/src/Prob01/MyOval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab03/src/Prob01/MyRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab03/src/Prob01/MyRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab03/src/Prob01/MyShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab03/src/Prob01/MyShape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab03/src/Prob01/draw.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab03/src/Prob01/draw.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab03/src/Prob02/MyPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab03/src/Prob02/MyPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab03/src/Prob02/MyTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab03/src/Prob02/MyTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab1/Point2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/lab1/Point2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/oop.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kLs7eRo1m0qrRXGTrS9J2WmGyx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="738" y="301" width="426" height="508" key="FileChooserDialogImpl" timestamp="1605491074924">
+      <screen x="0" y="38" width="1920" height="1042" />
+    </state>
+    <state x="738" y="301" width="426" height="508" key="FileChooserDialogImpl/0.38.1920.1042@0.38.1920.1042" timestamp="1605491074924" />
+    <state x="376" y="182" width="1159" height="750" key="new project wizard" timestamp="1605491077417">
+      <screen x="0" y="38" width="1920" height="1042" />
+    </state>
+    <state x="376" y="182" width="1159" height="750" key="new project wizard/0.38.1920.1042@0.38.1920.1042" timestamp="1605491077417" />
+  </component>
+</project>

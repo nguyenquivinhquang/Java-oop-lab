@@ -22,13 +22,13 @@ public class MyOval extends MyBoundedShape {
         return height;
     }
 
-    @Override
+    
     public void GetArea(double x, double y) {
         double Area = Math.PI * (x / 2) * (y / 2);
         System.out.println("Area of the Oval is:" + Area);
     }
 
-    @Override
+
     public void Draw() {
         JFrame.setDefaultLookAndFeelDecorated(true);
         JFrame frame = new JFrame("Draw Oval");
