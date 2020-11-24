@@ -1,11 +1,15 @@
 public class Product {
     private String productName, description;
-    private int amount;
+    private int amount, index;
 
     public Product(String productName, int amount, String description) {
         this.amount = amount;
         this.productName = productName;
         this.description = description;
+    }
+
+    public void resizeAmount(int num) {
+        this.amount += num;
     }
 
     public String getProductName() {
@@ -18,6 +22,14 @@ public class Product {
 
     public int getAmount() {
         return amount;
+    }
+
+    public int getIndex() {
+        return index;
+    }
+
+    public void setIndex(int index) {
+        this.index = index;
     }
 
     @Override
